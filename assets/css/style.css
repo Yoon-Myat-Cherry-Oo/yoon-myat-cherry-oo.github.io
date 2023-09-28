@@ -635,6 +635,10 @@ section {
     background: rgba(159, 180, 248, 0.75);
 }
 
+#portfolio-links a:hover {
+    background: rgba(159, 180, 248, 0.75);
+}
+
 .portfolio .portfolio-wrap .portfolio-links a+a {
     border-left: 1px solid #37b3ed;
 }
